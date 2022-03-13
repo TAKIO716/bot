@@ -278,7 +278,7 @@ let tags = {
 
     let before = conn.menu.before || `
 Hello %name
-Im *NayLaBotz* And You Use 
+Im *SQUATBOTZ* And You Use 
 
 ❏ Ｉｎｆｏ Ｂｏｔ
 ▷ Bot Name : *${conn.getName(conn.user.jid)}*
@@ -392,7 +392,7 @@ Im *NayLaBotz* And You Use
 
     externalAdReply: {
 
-                    title: `CREATED BY ZEVANO`,
+                    title: `CREATED BY NATHAN`,
 
                     body: `${ucapanWaktu} ${name}`,
 
