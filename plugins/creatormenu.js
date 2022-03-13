@@ -358,7 +358,7 @@ Im *NayLaBotz* And You Use
 
     externalAdReply: {
 
-                    title: `CREATED BY ZEVANO`,
+                    title: `CREATED BY NATHAN`,
 
                     body: `${ucapanWaktu} ${name}`,
 
