@@ -1,8 +1,8 @@
 let handler = async (m, { conn }) =>
 conn.relayWAMessage(conn.prepareMessageFromContent(m.chat, {
                     "listMessage":  {
-                        "title": "HALO KAK\nSaya NayLaBotz`\nPilih Menu Di Bawah Yaa\n",
-                        "description": "*Error? Chat me wa.me/628818770766*",
+                        "title": "HALO KAK\nSaya SQUATBOTZBotz`\nPilih Menu Di Bawah Yaa\n",
+                        "description": "*Error? Chat me wa.me/6289616061778*",
                         "buttonText": "CLICK HERE",
                         "listType": "SINGLE_SELECT",
                         "sections": [
