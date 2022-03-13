@@ -1,6 +1,5 @@
 let handler = async m => m.reply(`
 ┏━━°❀❬ *DONASI* ❭❀°━━┓
-┣➥ *Smartfren:* [08818770766]
 ┣➥ *Tri:* [089616061778]
 ┣➥ *Dana:* [089616061778]
 ┣➥ *Saweria:* [https://saweria.co/SquatEditz]
