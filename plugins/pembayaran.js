@@ -5,9 +5,9 @@ let info = `
 ╠════════════════════
 ║╭───❉ *VIA* ❉─────
 ║│
-║│➸ *PULSA*: 08818770766
-║│➸ *DANA*: 08818770766
-║│➸ *PULSA*:089520306297
+║│➸ *PULSA*: 089616061778
+║│➸ *DANA*: 089616061778
+║│➸ *saweria*:https://saweria.co/SquatEditz
 ║│
 ║╰──────────────────
 ║ Silahkan Ketik *UP*
@@ -17,7 +17,8 @@ let info = `
 ║  ▌│█║▌║▌║║▌║▌║█│▌
 ║        
 ╠════════════════════
-║ _*POWERED BY ZEVANO*_
+║ _*POWERED BY NATHAN*_
+║ _*RECODING BY SQUATEDITZ*_
 ╚════════════════════
 `.trim()
 
