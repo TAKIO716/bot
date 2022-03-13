@@ -2,13 +2,13 @@ let handler = async m => m.reply(`
 ╭─「 RENT BOT 」
 │
 │ > Harga :
-│• 5K / Minggu
-│• 20K / Bulan
-│• 30K / Permanent
+│• 10k / Minggu
+│• 25k / Bulan
+│• 200K / tahun
 │
 │ > Pembayaran :
-│• DANA : 08818770766
-│• TRI : 089520306297
+│• DANA : 089616061778
+│• TRI : 089616061778
 ╰────
 `.trim()) // Tambah sendiri kalo mau
 handler.help = ['sewa']
