@@ -1,7 +1,7 @@
 let handler  = async (m, { conn, usedPrefix: _p }) => {
   conn.reply(m.chat, `
 Tutorial Buat Bot WA:
-Credit: *~NayLaBotz*
+Credit: *~SQUAT Botz*
 
 Download dulu apk ny
 1) Termux
@@ -21,9 +21,7 @@ Ketik di *[TERMUX]*
 7) $ pkg install git
 
 Untuk SC Nya..
-Cari sendiri :v
-8) $ termux-setup-storage
-9) $ cd /sdcard/(nama folder sc ny)
+BELI DI OWNER KETIK .OWNER
 
 *Terakhir*..
 Penginstalannya cuy :)
