@@ -12,8 +12,8 @@ let info = `
 │
 │ > Harga :
 │• 10K / Weekly (Mingguan)
-│• 20K / Monthly (Bulanan)
-│• 50K / VIP (Permanen)
+│• 25k / Monthly (Bulanan)
+│• 200K / tahun
 │
 │ > Pembayaran :
 │• DANA : 08818770766
