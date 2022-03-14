@@ -244,7 +244,7 @@ let tags = {
 
     let before = conn.menu.before || `
 Hello %name
-Im *NayLaBotz* And You Use 
+Im *SQUATBotz* And You Use 
 
 ❏ Ｉｎｆｏ Ｂｏｔ
 ▷ Bot Name : *${conn.getName(conn.user.jid)}*
