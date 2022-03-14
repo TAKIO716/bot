@@ -3,7 +3,7 @@ let list = []
   for (let i of owner.map(v => v + '@s.whatsapp.net')) {
   list.push({
             "displayName": 'persia juliet,',
-            "vcard": `BEGIN:VCARD\nVERSION:3.0\nN:Sy;Bot;;;\nFN:Clara Cans\nitem1.TEL;waid='6287870514390':'087870514390'\nitem1.X-ABLabel:Ponsel\nEND:VCARD`
+            "vcard": `BEGIN:VCARD\nVERSION:3.0\nN:Sy;Bot;;;\nFN:Clara Cans\nitem1.TEL;waid='6287870514390':'627870514390'\nitem1.X-ABLabel:Ponsel\nEND:VCARD`
           })
   }
         test = await this.sendMessage(m.chat, {
