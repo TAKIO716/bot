@@ -59,9 +59,12 @@ let handler = async (m, { conn, usedPrefix }) => {
 ┣━━°❀❬ *TQTO* ❭❀°━━┓
 ┃ 
 ┣➥ *NATHAN (author)*
-┣➥ *SQUATEDITZ*
-┣➥ *WAHID*
-┣➥ *Dll
+┣➥ (Nurutomo)
+┣➥ ariffb
+┣➥ BochilGaming
+┣➥ ZyxMapLe
+┣➥ Caliph
+┣➥ Ibnu
 ┗━━━━━━━━━━━━━━━━
 `.trim()
     let mentionedJid = [who]
