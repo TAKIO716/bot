@@ -58,13 +58,9 @@ let handler = async (m, { conn, usedPrefix }) => {
 ┃ 
 ┣━━°❀❬ *TQTO* ❭❀°━━┓
 ┃ 
-┣➥ *Zevano (author)*
-┣➥ *Lolhuman*
-┣➥ *Xteam*
-┣➥ *Vhtear*
-┣➥ *Nurutomo*
-┣➥ *Layscode*
-┣➥ *Zeks*
+┣➥ *NATHAN (author)*
+┣➥ *SQUATEDITZ*
+┣➥ *WAHID*
 ┣➥ *Dll
 ┗━━━━━━━━━━━━━━━━
 `.trim()
