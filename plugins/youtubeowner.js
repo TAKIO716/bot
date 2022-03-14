@@ -1,9 +1,9 @@
 let handler  = async (m, { conn, usedPrefix: _p }) => {
 let info = `Subscribe Channel Ku Ya Kak nih link nya
-ISI INI PAKE LINK YT LU
+https://youtu.be/SqaVK7auGE4
 `.trim()
 
-conn.fakeReply(m.chat, info, '0@s.whatsapp.net', '*YANG SUBSCRIBE ANAK TUHAN*', 'status@broadcast') 
+conn.fakeReply(m.chat, info, '0@s.whatsapp.net', '*YANG SUBSCRIBE ANAK baik*', 'status@broadcast') 
 }
 handler.help = ['chadmin']
 handler.tags = ['info']
