@@ -91,14 +91,14 @@ module.exports = {
      if (!isNumber(user.cumi)) user.cumi= 0
      if (!isNumber(user.buntal)) user.buntal = 0
      if (!isNumber(user.dory)) user.dory = 0
+     if (!isNumber(user.ikan)) user.ikan = 0
      if (!isNumber(user.lumba)) user.lumba = 0
      if (!isNumber(user.lobster)) user.lobster = 0
      if (!isNumber(user.hiu)) user.hiu = 0
      if (!isNumber(user.udang)) user.udang = 0
      if (!isNumber(user.ikan)) user.ikan = 0
      if (!isNumber(user.orca)) user.orca = 0
-        
-        if (!isNumber(user.banteng)) user.banteng = 0
+     if (!isNumber(user.banteng)) user.banteng = 0
      if (!isNumber(user.harimau)) user.harimau = 0
      if (!isNumber(user.gajah)) user.gajah = 0
      if (!isNumber(user.kambing)) user.kambing = 0
