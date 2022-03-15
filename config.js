@@ -32,13 +32,13 @@ global.APIKeys = { // Apikey lu di sini
 }
 
 // Sticker Watermark
-global.packname = 'NayLaBotz'
-global.author = 'Zevano'
+global.packname = 'SQUATBotz'
+global.author = 'WAHID'
 
 global.multiplier = 36 // ini butuh berapa xp buat levelup 
 
-global.botwm = ['© nayla'] // watermark bot
-global.oname = ['Zevano'] // nama owner nya
+global.botwm = ['© SQUAT'] // watermark bot
+global.oname = ['WAHID'] // nama owner nya
 
 let chalk = require('chalk')
 let file = require.resolve(__filename)
