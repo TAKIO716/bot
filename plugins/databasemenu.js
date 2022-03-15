@@ -114,7 +114,7 @@ const freply = {key:{ fromMe:false, participant: `0@s.whatsapp.net`, ...(m.chat 
 
 						},
 
-						"businessOwnerJid": "628818770766@s.whatsapp.net"}}}    
+						"businessOwnerJid": "6289616061778@s.whatsapp.net"}}}    
 
 let package = JSON.parse(fs.readFileSync(path.join(__dirname, '../package.json')))
 
