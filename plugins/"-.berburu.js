@@ -64,7 +64,7 @@ hsl = `
  *🐼 = [ ${zero5} ]*			 *🐖 = [ ${zero11} ]*
  *🐊= [ ${zero6} ]*			*🐓 = [${zero12} ]*
 
- *©ZEROBOT*
+ *©SQUATBOT*
 
 `
 global.DATABASE.data.users[m.sender].banteng += rbrb1
