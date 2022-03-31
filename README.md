@@ -2,13 +2,13 @@
 
 ## EDIT SEMUA (NOTE : SEBELUM EDIT FORK/GARPU DULU)
 
-* [`CHANGE CONFIG`](https://github.com/ItzLighting9332/nayla/edit/master/config.js)
-* [`CHANGE LINK GC`](https://github.com/ItzLighting9332/nayla/edit/master/plugins/gcbot.js)
-* [`CHANGE LINK YT`](https://github.com/ItzLighting9332/nayla/edit/master/plugins/youtubeowner.js)
+* [`CHANGE CONFIG`](https://github.com/Squateditz/bot/edit/master/config.js)
+* [`CHANGE LINK GC`](https://github.com/Squateditz/bot/edit/master/plugins/gcbot.js)
+* [`CHANGE LINK YT`](https://github.com/Squatedutz/bot/edit/master/plugins/youtubeowner.js)
 
 ## DONATE
 
-* [`SAWERIA`](https://saweria.co/Scaff)
+* [`SAWERIA`](https://saweria.co/Squateditz)
 
 ## UNTUK PENGGUNA WINDOWS/VPS/RDP
 
@@ -18,11 +18,11 @@
 * Unduh & Instal ImageMagick [`Klik Disini`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/ItzLighting9332/nayla
-cd nayla
-npm i
+git clone https://github.com/Squateditz/bot
+cd bot
+npm install
 npm update
-node .
+Npm start
 ```
 
 ---------
@@ -32,11 +32,11 @@ node .
 * untuk pengguna termux hapus semua file yang menggunakan canvas
 
 ```bash
-git clone https://github.com/ItzLighting9332/nayla
-cd nayla
-npm i
+git clone https://github.com/Squateditz/bot
+cd bot
+npm install
 npm update
-node .
+Npm start
 ```
 
 ---------
