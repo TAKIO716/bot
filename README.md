@@ -1,4 +1,4 @@
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ItzLighting9332/nayla)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/squateditz/bot)
 
 ## EDIT SEMUA (NOTE : SEBELUM EDIT FORK/GARPU DULU)
 
